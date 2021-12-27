@@ -1,7 +1,7 @@
 # Final_Project_PBO
 Project PBO Kelompok 8 
-
 Deskripsi
+
 
 Program ini dapat digunakan untuk melakukan transaksi tarik tunai, tambah saldo, pendaftaran rekening, penambahan rekening, perekaman atau penyimpanan data pemegang akun di suatu Sistem Koperasi, dimana terdapat 2 jenis akun yaitu akun individu dan akun perusahaan. Setiap Pemegang Akun dapat memiliki 1 akun atau lebih.
 
