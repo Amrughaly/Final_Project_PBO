@@ -2,10 +2,10 @@
 Project PBO Kelompok 8 
 
 
-Sistem yang dapat digunakan untuk merekam transaksi data nasabah di bank, dimana terdapat 2 jenis nasabah yaitu individu dan perusahaan. Setiap nasabah dapat memiliki 1 atau lebih rekening.
+Sistem yang dapat digunakan untuk merekam transaksi data nasabah di bank, dimana terdapat 2 jenis nasabah yaitu individu dan perusahaan. Setiap nasabah dapat memiliki 1 rekening.
 
 Libraries and Tools of this project:
-jar sqlite-jdbc-3.21.0.jar, jar sqlite-jdbc-3.7.2 scene builder sqlite studio xampp (mysql server) netbean editor visual paradigm online
+jar sqlite-jdbc-3.21.0.jar, mysql-connector-java-6.0.4, controlsfx-8.20.8-bin scene builder sqlite studio xampp (mysql server) netbean editor visual paradigm online
 
 Kelompok 8 D3 Manajemen Informatika B
 •	Shyintia Miranda Sugiarto 1907051022
